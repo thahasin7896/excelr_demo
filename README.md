@@ -1,4 +1,4 @@
 #excelr_demo
-this is my first repository
+this is my first repo
 <br>
-author name :Thahasin khan 
+author name :Thahasin khan
